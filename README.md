@@ -1,2 +1,1 @@
-# k-Nearest-Neighbors
-"A hands-on practice project implementing the K-Nearest Neighbors (KNN) algorithm using Python. Includes preprocessing, model training, and evaluation for learning purposes."
+Repository for practicing and experimenting with various machine learning models. Includes data preprocessing, model training, evaluation, and visualization for learning and improvement. No real-world projects — just ML experiments and practice notebooks.
